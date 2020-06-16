@@ -1,1 +1,1 @@
-jupyter notebook C:\Users\sho\source\School\CustomerSegments\Identify_Customer_Segments.ipynb
+jupyter notebook C:\Users\sho\source\School\CustomerSegments\CustomerSegments\Identify_Customer_Segments.ipynb
